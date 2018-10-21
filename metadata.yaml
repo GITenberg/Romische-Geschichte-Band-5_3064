@@ -1,5 +1,5 @@
 _repo: Romische-Geschichte-Band-5_3064
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'DG'
 - !lcsh 'Rome -- History'
+- GITenberg
 title: Römische Geschichte — Band 5
 url: http://www.gutenberg.org/ebooks/3064
